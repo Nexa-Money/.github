@@ -85,9 +85,9 @@ Fale com a gente:
 
 ## 👥 Autores
 
-- [Bruno](https://github.com/seu-usuario)  
-- [Felipe](https://github.com/usuario-felipe)  
-- [Marcos](https://github.com/usuario-marcos)
+- [Bruno](https://github.com/brunodeev)  
+- [Felipe](https://github.com/felipethecreator)  
+- [Marcos](https://github.com/marcoslprado)
 
 ---
 
